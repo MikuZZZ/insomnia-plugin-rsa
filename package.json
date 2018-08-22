@@ -3,12 +3,10 @@
   "version": "1.0.0",
   "description": "RSA encryption for Insomnia REST Client",
   "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
+  "repository": "https://github.com/MikuZZZ/insomnia-plugin-rsa.git",
   "insomnia": {
     "name": "rsa",
-    "description": "..."
+    "description": "RSA encryption plugin for Insomnia REST Client"
   },
   "author": "Zizhao Wang <wangzizhao@me.com>",
   "license": "MIT"
